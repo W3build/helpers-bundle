@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <!--<parameters>-->
+        <!--<parameter key="w3build_helpers..class">W3build\HelpersBundle\</parameter>-->
+    <!--</parameters>-->
+
+    <!--<services>-->
+
+        <!--<service id="w3build_helpers." class="%w3build_helpers..class%">-->
+        <!--</service>-->
+
+    <!--</services>-->
+</container>
